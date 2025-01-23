@@ -8,7 +8,7 @@ The current forlder contains the following subdirectories:
    4- "ExampleArticle" which contains the codes and the data used in the practical example presented in [1].
 ________________________________________________________________________________________________   
 
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).
 

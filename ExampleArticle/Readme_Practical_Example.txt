@@ -39,6 +39,6 @@ ________________________________________________________________________________
    Stabilo.exe Test 1 3 10 100 100.0 1
 ________________________________________________________________________________________________   
 
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).

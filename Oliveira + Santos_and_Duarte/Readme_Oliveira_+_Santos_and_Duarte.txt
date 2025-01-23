@@ -6,7 +6,7 @@ The current folder contains the following items:
 	  the directories "Oliveira + Santos_and_Duarte/Experiments/Arffs" and "Oliveira + Santos_and_Duarte/Experiments/Time_Shift".
 ________________________________________________________________________________________________ 
   
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).
 

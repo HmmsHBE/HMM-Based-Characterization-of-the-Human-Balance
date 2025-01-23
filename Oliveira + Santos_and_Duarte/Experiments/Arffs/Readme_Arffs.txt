@@ -28,7 +28,7 @@ where:
 	2- KAPPA is the time-shift. The values (KAPPA = 1, 5, 10) were used in [1].
 ________________________________________________________________________________________________   
 
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).
 

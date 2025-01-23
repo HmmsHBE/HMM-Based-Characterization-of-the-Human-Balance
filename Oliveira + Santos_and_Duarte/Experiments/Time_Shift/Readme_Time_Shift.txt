@@ -53,7 +53,7 @@ The execution of the previous program produces several files and directories:
 3- If the parameter 'SaveHMMs' is 1, it produces a subdirectory containing the initial and final HMMs.
 ________________________________________________________________________________________________   
 
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).
 

@@ -43,7 +43,7 @@ ________________________________________________________________________________
    MergeArffs.exe Falls10_shift_1.arff Falls10_shift_5.arff Falls10_shift_1_5.arff
 ________________________________________________________________________________________________   
 
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).
 

@@ -8,7 +8,7 @@ The current folder contains the following items:
 	  (id, age-group and mini-BEST total score) used to generate the '.arff' files.
 ________________________________________________________________________________________________ 
   
-[1] Mohammad Mourad, A., Tsagmo Denkeng, A.J.,Iloga, S., Romain, O., Baazaoui, H., Mballa Mba, R.M., Djotio, T.,
+[1] Author names,
 "HMM-based characterization of the human balance applied to age-group, fall risk and the Parkison’s disease prediction" 
 (Under review).
 
